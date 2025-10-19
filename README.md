@@ -101,4 +101,3 @@ Through these projects, I developed a solid understanding of:
 
 ---
 
-## 📂 Repository Structure
