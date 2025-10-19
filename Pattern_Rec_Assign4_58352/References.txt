@@ -1,0 +1,20 @@
+Documentation: 
+
+https://numpy.org/
+https://scikit-learn.org/1.5/index.html
+https://pytorch.org/
+https://seaborn.pydata.org/
+
+Debugging & Added Clarification:
+
+https://stackoverflow.com/
+https://www.geeksforgeeks.org/
+https://medium.com/
+https://discuss.pytorch.org/
+https://chatgpt.com/
+
+Books: 
+
+Bishop-Pattern Recognition And Machine Learning
+Lecture Slides
+
